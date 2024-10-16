@@ -34,3 +34,4 @@ than the books is the irony of my ever-growing list.
 * [ ] **Dune**, Frank Herbert
 * [x] **Farenheit 451**, Rau Bradbury
 * [ ] **Doppleganger**, Naomi Lien
+* [ ] **The Fisherman**, John Langan
