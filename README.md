@@ -11,25 +11,26 @@ than the books is the irony of my ever-growing list.
 
 ## (in no particalur order and updated almost semi-regularly)
 
-* **The Left Hand of Darkness**, Ursula LeGuin
-* **The Dispossessed**, Ursula LeGuin
-* **1984**, Georg Orwell
-* **The Grapes of Wrath**, John Steinbeck
-* **Travels with Charlie**, John Steinbeck
-* **Things Fall Apart**, Chinua Achebe
-* **The Book Thief**, Markus Zusak
-* **The Kite Runner**, Khaled Hosseini
-* **Frankenstein; or The Modern Prometheus**, Mary Shelly
-* **Jane Eyre**, Charlotte Brontë
-* **The Chrysalids**, John Wyndham
-* **Mother Night**, Kurt Vonnegut
-* **Breakfast of Champions**, Kurt Vonnegut
-* **Blood Meridian**, Cormack McCarthy
-* **The Three Body Problem**, Liu Cixin
-* **The Spy Who Came in from the Cold**, John Le Carré
-* **A Most Wanted Man**, John Le Carré
-* **Confessions of an Economic Hitman**, John Perkins
-* **We**, Yevgeny Zamyatin
-* **Hard Rain Falling**, Don Carpenter
-* **Dune**, Frank Herbert
-* **Farenheit 451**, Rau Bradbury
+* [x] **The Left Hand of Darkness**, Ursula LeGuin
+* [ ] **The Dispossessed**, Ursula LeGuin
+* [x] **1984**, Georg Orwell
+* [ ] **The Grapes of Wrath**, John Steinbeck
+* [ ] **Travels with Charlie**, John Steinbeck
+* [ ] **Things Fall Apart**, Chinua Achebe
+* [ ] **The Book Thief**, Markus Zusak
+* [ ] **The Kite Runner**, Khaled Hosseini
+* [ ] **Frankenstein; or The Modern Prometheus**, Mary Shelly
+* [ ] **Jane Eyre**, Charlotte Brontë
+* [ ] **The Chrysalids**, John Wyndham
+* [ ] **Mother Night**, Kurt Vonnegut
+* [ ] **Breakfast of Champions**, Kurt Vonnegut
+* [x] **Blood Meridian**, Cormack McCarthy
+* [ ] **The Three Body Problem**, Liu Cixin
+* [ ] **The Spy Who Came in from the Cold**, John Le Carré
+* [ ] **A Most Wanted Man**, John Le Carré
+* [ ] **Confessions of an Economic Hitman**, John Perkins
+* [ ] **We**, Yevgeny Zamyatin
+* [ ] **Hard Rain Falling**, Don Carpenter
+* [ ] **Dune**, Frank Herbert
+* [x] **Farenheit 451**, Rau Bradbury
+* [ ] **Doppleganger**, Naomi Lien
