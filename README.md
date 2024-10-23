@@ -35,3 +35,4 @@ than the books is the irony of my ever-growing list.
 * [x] **Farenheit 451**, Rau Bradbury
 * [ ] **Doppleganger**, Naomi Lien
 * [ ] **The Fisherman**, John Langan
+* [ ] **The Haunting of Hill House**, Shirley Jackson
