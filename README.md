@@ -33,6 +33,6 @@ than the books is the irony of my ever-growing list.
 * [ ] **Hard Rain Falling**, Don Carpenter
 * [ ] **Dune**, Frank Herbert
 * [x] **Farenheit 451**, Rau Bradbury
-* [ ] **Doppleganger**, Naomi Lien
+* [x] **Doppelganger**, Naomi Lien
 * [ ] **The Fisherman**, John Langan
 * [ ] **The Haunting of Hill House**, Shirley Jackson
