@@ -9,7 +9,7 @@ the silent judgment of unread pages. So, grab a cup of coffee (or three) and joi
 me as I dive into the abyss of my literary aspirations, where the only thing thicker
 than the books is the irony of my ever-growing list.
 
-## (in no particalur order and updated almost semi-regularly)
+### (in no particalur order and updated almost semi-regularly)
 
 * [x] **The Left Hand of Darkness**, Ursula LeGuin
 * [ ] **The Dispossessed**, Ursula LeGuin
@@ -36,3 +36,4 @@ than the books is the irony of my ever-growing list.
 * [x] **Doppelganger**, Naomi Lien
 * [ ] **The Fisherman**, John Langan
 * [ ] **The Haunting of Hill House**, Shirley Jackson
+* [ ] **A Thousand Spendid Suns**, Khaled Hosseini
