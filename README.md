@@ -24,6 +24,7 @@ than the books is the irony of my ever-growing list.
 * [ ] **The Chrysalids**, John Wyndham
 * [ ] **Mother Night**, Kurt Vonnegut
 * [ ] **Breakfast of Champions**, Kurt Vonnegut
+* [ ] **Slaughterhouse 5**, Kurt Vonnegut
 * [x] **Blood Meridian**, Cormack McCarthy
 * [ ] **The Three Body Problem**, Liu Cixin
 * [ ] **The Spy Who Came in from the Cold**, John Le Carré
