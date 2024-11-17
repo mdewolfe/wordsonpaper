@@ -35,5 +35,5 @@ than the books is the irony of my ever-growing list.
 * [x] **Farenheit 451**, Rau Bradbury
 * [x] **Doppelganger**, Naomi Lien
 * [ ] **The Fisherman**, John Langan
-* [ ] **The Haunting of Hill House**, Shirley Jackson
+* [x] **The Haunting of Hill House**, Shirley Jackson
 * [ ] **A Thousand Spendid Suns**, Khaled Hosseini
