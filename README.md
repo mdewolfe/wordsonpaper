@@ -38,3 +38,4 @@ than the books is the irony of my ever-growing list.
 * [ ] **The Fisherman**, John Langan
 * [x] **The Haunting of Hill House**, Shirley Jackson
 * [ ] **A Thousand Spendid Suns**, Khaled Hosseini
+* [ ] **Bad Cree**, Jessica Johns
