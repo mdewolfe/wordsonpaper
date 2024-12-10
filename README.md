@@ -32,7 +32,7 @@ than the books is the irony of my ever-growing list.
 * [ ] **Confessions of an Economic Hitman**, John Perkins
 * [ ] **We**, Yevgeny Zamyatin
 * [ ] **Hard Rain Falling**, Don Carpenter
-* [ ] **Dune**, Frank Herbert
+* [x] **Dune**, Frank Herbert
 * [x] **Farenheit 451**, Rau Bradbury
 * [x] **Doppelganger**, Naomi Lien
 * [ ] **The Fisherman**, John Langan
