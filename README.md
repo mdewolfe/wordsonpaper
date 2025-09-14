@@ -11,31 +11,33 @@ than the books is the irony of my ever-growing list.
 
 ### (in no particalur order and updated almost semi-regularly)
 
-* [x] **The Left Hand of Darkness**, Ursula LeGuin
-* [ ] **The Dispossessed**, Ursula LeGuin
-* [x] **1984**, Georg Orwell
-* [ ] **The Grapes of Wrath**, John Steinbeck
-* [ ] **Travels with Charlie**, John Steinbeck
-* [ ] **Things Fall Apart**, Chinua Achebe
-* [ ] **The Book Thief**, Markus Zusak
-* [ ] **The Kite Runner**, Khaled Hosseini
-* [ ] **Frankenstein; or The Modern Prometheus**, Mary Shelly
-* [ ] **Jane Eyre**, Charlotte Brontë
-* [ ] **The Chrysalids**, John Wyndham
-* [ ] **Mother Night**, Kurt Vonnegut
-* [ ] **Breakfast of Champions**, Kurt Vonnegut
-* [ ] **Slaughterhouse 5**, Kurt Vonnegut
-* [x] **Blood Meridian**, Cormack McCarthy
-* [ ] **The Three Body Problem**, Liu Cixin
-* [ ] **The Spy Who Came in from the Cold**, John Le Carré
-* [ ] **A Most Wanted Man**, John Le Carré
-* [ ] **Confessions of an Economic Hitman**, John Perkins
-* [ ] **We**, Yevgeny Zamyatin
-* [ ] **Hard Rain Falling**, Don Carpenter
-* [x] **Dune**, Frank Herbert
-* [x] **Farenheit 451**, Rau Bradbury
-* [x] **Doppelganger**, Naomi Lien
-* [ ] **The Fisherman**, John Langan
-* [x] **The Haunting of Hill House**, Shirley Jackson
-* [ ] **A Thousand Spendid Suns**, Khaled Hosseini
-* [ ] **Bad Cree**, Jessica Johns
+| Done? | Title                                      | Author           |
+| ----- | ------------------------------------------ | ---------------- |
+|       | **A Most Wanted Man**                      | John Le Carré    |
+|       | **A Thousand Spendid Suns**                | Khaled Hosseini  |
+|       | **Bad Cree**                               | Jessica Johns    |
+|       | **Breakfast of Champions**                 | Kurt Vonnegut    |
+|       | **Confessions of an Economic Hitman**      | John Perkins     |
+|       | **Frankenstein; or The Modern Prometheus** | Mary Shelly      |
+|       | **Hard Rain Falling**                      | Don Carpenter    |
+|       | **Jane Eyre**                              | Charlotte Brontë |
+|       | **Mother Night**                           | Kurt Vonnegut    |
+|       | **Slaughterhouse 5**                       | Kurt Vonnegut    |
+|       | **Something Wicked This Way Comes**        | Ray Bradbury     |
+|       | **The Book Thief**                         | Markus Zusak     |
+|       | **The Chrysalids**                         | John Wyndham     |
+|       | **The Dispossessed**                       | Ursula LeGuin    |
+|       | **The Fisherman**                          | John Langan      |
+|       | **The Grapes of Wrath**                    | John Steinbeck   |
+|       | **The Kite Runner**                        | Khaled Hosseini  |
+|       | **The Spy Who Came in from the Cold**      | John Le Carré    |
+|       | **Things Fall Apart**                      | Chinua Achebe    |
+|       | **Travels with Charlie**                   | John Steinbeck   |
+|       | **We**                                     | Yevgeny Zamyatin |
+| done  | **1984**                                   | Georg Orwell     |
+| done  | **Blood Meridian**                         | Cormack McCarthy |
+| done  | **Doppelganger**                           | Naomi Klien      |
+| done  | **Dune**                                   | Frank Herbert    |
+| done  | **Farenheit 451**                          | Ray Bradbury     |
+| done  | **The Haunting of Hill House**             | Shirley Jackson  |
+| done  | **The Left Hand of Darkness**              | Ursula LeGuin    |
