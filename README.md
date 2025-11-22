@@ -11,33 +11,33 @@ than the books is the irony of my ever-growing list.
 
 ### (in no particalur order and updated almost semi-regularly)
 
-| Done? | Title                                      | Author           |
-| ----- | ------------------------------------------ | ---------------- |
-|       | **A Most Wanted Man**                      | John Le Carré    |
-|       | **A Thousand Spendid Suns**                | Khaled Hosseini  |
-|       | **Bad Cree**                               | Jessica Johns    |
-|       | **Breakfast of Champions**                 | Kurt Vonnegut    |
-|       | **Confessions of an Economic Hitman**      | John Perkins     |
-|       | **Frankenstein; or The Modern Prometheus** | Mary Shelly      |
-|       | **Hard Rain Falling**                      | Don Carpenter    |
-|       | **Jane Eyre**                              | Charlotte Brontë |
-|       | **Mother Night**                           | Kurt Vonnegut    |
-|       | **Slaughterhouse 5**                       | Kurt Vonnegut    |
-|       | **Something Wicked This Way Comes**        | Ray Bradbury     |
-|       | **The Book Thief**                         | Markus Zusak     |
-|       | **The Chrysalids**                         | John Wyndham     |
-|       | **The Dispossessed**                       | Ursula LeGuin    |
-|       | **The Fisherman**                          | John Langan      |
-|       | **The Grapes of Wrath**                    | John Steinbeck   |
-|       | **The Kite Runner**                        | Khaled Hosseini  |
-|       | **The Spy Who Came in from the Cold**      | John Le Carré    |
-|       | **Things Fall Apart**                      | Chinua Achebe    |
-|       | **Travels with Charlie**                   | John Steinbeck   |
-|       | **We**                                     | Yevgeny Zamyatin |
-| done  | **1984**                                   | Georg Orwell     |
-| done  | **Blood Meridian**                         | Cormack McCarthy |
-| done  | **Doppelganger**                           | Naomi Klien      |
-| done  | **Dune**                                   | Frank Herbert    |
-| done  | **Farenheit 451**                          | Ray Bradbury     |
-| done  | **The Haunting of Hill House**             | Shirley Jackson  |
-| done  | **The Left Hand of Darkness**              | Ursula LeGuin    |
+| Done? | Author           | Title                                      |
+| ----- | -----------------|------------------------------------------- |
+|       | Charlotte Brontë | **Jane Eyre**                              |
+|       | Chinua Achebe    |  **Things Fall Apart**                     |
+|       | Don Carpenter    | **Hard Rain Falling**                      |
+|       | Jessica Johns    | **Bad Cree**                               |
+|       | John Langan      | **The Fisherman**                          |
+|       | John Le Carré    | **A Most Wanted Man**                      |
+|       | John Le Carré    | **The Spy Who Came in from the Cold**      |
+|       | John Perkins     | **Confessions of an Economic Hitman**      |
+|       | John Steinbeck   | **The Grapes of Wrath**                    |
+|       | John Steinbeck   | **Travels with Charlie**                   |
+|       | John Wyndham     | **The Chrysalids**                         |
+|       | Khaled Hosseini  | **A Thousand Spendid Suns**                |
+|       | Khaled Hosseini  | **The Kite Runner**                        |
+|       | Kurt Vonnegut    | **Breakfast of Champions**                 |
+|       | Kurt Vonnegut    | **Mother Night**                           |
+|       | Kurt Vonnegut    | **Slaughterhouse 5**                       |
+|       | Markus Zusak     | **The Book Thief**                         |
+|       | Mary Shelly      | **Frankenstein; or The Modern Prometheus** |
+|       | Ursula LeGuin    | **The Dispossessed**                       |
+|       | Yevgeny Zamyatin | **We**                                     |
+| done  | Cormack McCarthy | **Blood Meridian**                         |
+| done  | Frank Herbert    | **Dune**                                   |
+| done  | Georg Orwell     | **1984**                                   |
+| done  | Naomi Klien      | **Doppelganger**                           |
+| done  | Ray Bradbury     | **Farenheit 451**                          |
+| done  | Ray Bradbury     | **Something Wicked This Way Comes**        |
+| done  | Shirley Jackson  | **The Haunting of Hill House**             |
+| done  | Ursula LeGuin    |  **The Left Hand of Darkness**             |
