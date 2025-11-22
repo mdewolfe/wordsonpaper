@@ -16,6 +16,8 @@ than the books is the irony of my ever-growing list.
 |       | Charlotte Brontë | **Jane Eyre**                              |
 |       | Chinua Achebe    |  **Things Fall Apart**                     |
 |       | Don Carpenter    | **Hard Rain Falling**                      |
+|       | Frank Herbet     | **Children of Dune**                       |
+|       | Frank Herbet     | **Dune Messiah**                           |
 |       | Jessica Johns    | **Bad Cree**                               |
 |       | John Langan      | **The Fisherman**                          |
 |       | John Le Carré    | **A Most Wanted Man**                      |
@@ -40,4 +42,4 @@ than the books is the irony of my ever-growing list.
 | done  | Ray Bradbury     | **Farenheit 451**                          |
 | done  | Ray Bradbury     | **Something Wicked This Way Comes**        |
 | done  | Shirley Jackson  | **The Haunting of Hill House**             |
-| done  | Ursula LeGuin    |  **The Left Hand of Darkness**             |
+| done  | Ursula LeGuin    | **The Left Hand of Darkness**              |
