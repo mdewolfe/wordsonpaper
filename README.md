@@ -18,6 +18,7 @@ than the books is the irony of my ever-growing list.
 |       | Don Carpenter    | **Hard Rain Falling**                      |
 |       | Frank Herbet     | **Children of Dune**                       |
 |       | Frank Herbet     | **Dune Messiah**                           |
+|       | Harry Matthews   | **Cigarettes**                             |
 |       | Jessica Johns    | **Bad Cree**                               |
 |       | John Langan      | **The Fisherman**                          |
 |       | John Le Carré    | **A Most Wanted Man**                      |
@@ -33,6 +34,7 @@ than the books is the irony of my ever-growing list.
 |       | Kurt Vonnegut    | **Slaughterhouse 5**                       |
 |       | Markus Zusak     | **The Book Thief**                         |
 |       | Mary Shelly      | **Frankenstein; or The Modern Prometheus** |
+|       | Octavia Butler   | **Parable of the Sower**                   |
 |       | Ursula LeGuin    | **The Dispossessed**                       |
 |       | Yevgeny Zamyatin | **We**                                     |
 | done  | Cormack McCarthy | **Blood Meridian**                         |
