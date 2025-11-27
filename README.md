@@ -24,6 +24,7 @@ than the books is the irony of my ever-growing list.
 |       | John Le Carré    | **A Most Wanted Man**                      |
 |       | John Le Carré    | **The Spy Who Came in from the Cold**      |
 |       | John Perkins     | **Confessions of an Economic Hitman**      |
+|       | John Steinbeck   | **East of Eden**                           |
 |       | John Steinbeck   | **The Grapes of Wrath**                    |
 |       | John Steinbeck   | **Travels with Charlie**                   |
 |       | John Wyndham     | **The Chrysalids**                         |
